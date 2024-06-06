@@ -54,3 +54,16 @@ You can run the Python scripts directly from the command line. For example, to r
 
 ```sh
 python pset0/script_name.py
+```
+
+# Contributing
+If you would like to contribute to this repository, feel free to submit a pull request. Please ensure that your contributions adhere to the course's academic honesty policy.
+
+# License
+This repository is licensed under the *MIT License*. See the LICENSE file for more information.
+
+# Acknowledgements
+HarvardX: For offering this excellent course.
+David J. Malan: For his engaging teaching style and dedication to education.
+
+Happy coding! If you have any questions or suggestions, feel free to open an issue or contact me directly.
