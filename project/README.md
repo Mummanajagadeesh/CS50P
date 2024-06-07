@@ -1,6 +1,9 @@
 
 # CS50_PROGRESS_TRACKER
 
+#### NOTE
+***It relies on basic data structures and does not use OOP, reflecting my beginner status at the time. I have chosen to leave it in its original form to preserve its authenticity.***
+
 This Python script helps users track their progress through various courses by marking completed weeks and calculating completion percentages for each course.
 
 
